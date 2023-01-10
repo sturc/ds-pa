@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 ds-pa-lecture.code-workspace
 exercises/images/
+data/sales.csv
