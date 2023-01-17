@@ -130,3 +130,6 @@ dmypy.json
 ds-pa-lecture.code-workspace
 exercises/images/
 data/sales.csv
+data/rossmann-store-sales/store.csv
+data/rossmann-store-sales/test.csv
+data/rossmann-store-sales/train.csv
