@@ -136,7 +136,8 @@ data/rossmann-store-sales/train.csv
 data/cal_housing.data
 data/cal_housing.domain
 data/churn.csv
-solutions/images/
+solutions/
 prototypes/
 data/Teileliste_with_filtered_attributes.csv
-requirements_ws2223.txt
+requirements_*.txt
+mlruns/
